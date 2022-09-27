@@ -1,0 +1,3 @@
+Something went wrong and the update wasn't successful.
+
+Press the space bar to reboot.
